@@ -1,0 +1,6 @@
+{
+  "name": "Acelerador de Bumbum com Elásticos",
+  "description": "Treino educativo com elásticos para fortalecer glúteos e quadris em casa com precisão técnica e segurança — sem promessas de transformação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
